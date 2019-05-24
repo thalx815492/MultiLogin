@@ -31,7 +31,7 @@ import butterknife.ButterKnife;
 public class MainActivity extends AppCompatActivity {
 
     private static final int RC_SING_IN = 123;
-    private static final String PROVEEDOR_DESCONOCIDO = "Proveedor Desconocido";
+    private static final String PROVEEDOR_DESCONOCIDO = "Proveedor No Conocido";
     private static final String PASSWORD_FIREBASE = "password";
 
     @BindView(R.id.imgPhotoProfile)
