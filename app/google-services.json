@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "464216633282",
+    "firebase_url": "https://curso-android-firebase-3d116.firebaseio.com",
+    "project_id": "curso-android-firebase-3d116",
+    "storage_bucket": "curso-android-firebase-3d116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464216633282:android:6eeacc4f308b5f75",
+        "android_client_info": {
+          "package_name": "com.example.multilogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464216633282-caibt2b215jmsjlpgp725imrc1qjov64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multilogin",
+            "certificate_hash": "5249e368a41bef964c8690a0f64c422223a4cd99"
+          }
+        },
+        {
+          "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx05l3J9pcSdTUhjUd7GR1_4x4YeDDWJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464216633282:android:39507a12160be71a",
+        "android_client_info": {
+          "package_name": "cursos.thalx.algodecomidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464216633282-gk199miohjfac7iiui9ge2m1r8nop3jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cursos.thalx.algodecomidas",
+            "certificate_hash": "b4ce256ba208ce4afcfa24340e833f91d8e195ac"
+          }
+        },
+        {
+          "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx05l3J9pcSdTUhjUd7GR1_4x4YeDDWJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464216633282:android:b6d87a387932d8cd",
+        "android_client_info": {
+          "package_name": "cursos.thalx.appofertas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464216633282-mshg03t71vt30r8qbnkc5vne5be1c7c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cursos.thalx.appofertas",
+            "certificate_hash": "b4ce256ba208ce4afcfa24340e833f91d8e195ac"
+          }
+        },
+        {
+          "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx05l3J9pcSdTUhjUd7GR1_4x4YeDDWJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464216633282:android:ec76ef5bfaed4c8b",
+        "android_client_info": {
+          "package_name": "cursos.thalx.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464216633282-cj9tna9scnbbuaajt8gp7q98gkp75nnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cursos.thalx.com",
+            "certificate_hash": "b4ce256ba208ce4afcfa24340e833f91d8e195ac"
+          }
+        },
+        {
+          "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx05l3J9pcSdTUhjUd7GR1_4x4YeDDWJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464216633282:android:651403be91c086e7",
+        "android_client_info": {
+          "package_name": "cursos.thalx.mis_photos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464216633282-hsi3n4cdc4rropn70mamj79q2d9qpfgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cursos.thalx.mis_photos",
+            "certificate_hash": "b4ce256ba208ce4afcfa24340e833f91d8e195ac"
+          }
+        },
+        {
+          "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx05l3J9pcSdTUhjUd7GR1_4x4YeDDWJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464216633282-h70d3bhqa101ulsioib5olqhdb6mmq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imgPhotoProfile"
+        android:layout_width="@dimen/main.img.size"
+        android:layout_height="@dimen/main.img.size"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+    
+    <TextView
+        android:id="@+id/tvUserName"
+        android:hint="@string/main.hint.userName"
+        app:layout_constraintTop_toBottomOf="@id/imgPhotoProfile"
+        style="@style/TextViewBase"/>
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:hint="@string/main.hint.email"
+        app:layout_constraintTop_toBottomOf="@id/tvUserName"
+        style="@style/TextViewBase" />
+
+    <TextView
+        android:id="@+id/tvProvider"
+        android:hint="@string/main.hint.provider"
+        app:layout_constraintTop_toBottomOf="@id/tvEmail"
+        style="@style/TextViewBase"/>
+
+</android.support.constraint.ConstraintLayout>
